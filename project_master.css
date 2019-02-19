@@ -1,0 +1,14 @@
+.gameButton {
+  background-color: white;
+  height: 5em;
+  width: 5em;
+  border-radius: 50%;
+  border: solid 3px;
+  border-color: #dddddd;
+}
+
+#helpButton{
+  width: 5em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
